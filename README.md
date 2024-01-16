@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Trapti Rahangdale
 
-🔭 I’m currently looking for Sr. frontend developer opportunities, Remote. 
+🔭 I’m currently working as Staff Frontend Engineer at Stellr, Remote/hybrid. 
 
 🖥 I mostly work with HTML, CSS, JS React, Redux and TypeScript. Also I am proficient in SVG. 
 
